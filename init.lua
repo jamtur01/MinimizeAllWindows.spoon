@@ -9,7 +9,7 @@ obj.__index = obj
 
 -- Metadata
 obj.name = "MinimizeAllWindows"
-obj.version = "1.1"
+obj.version = "1.2"
 obj.author = "James Turnbull <james@lovedthanlost.net>"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
 obj.homepage = "https://github.com/jamtur01/MinimizeAllWindows.spoon"
